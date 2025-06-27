@@ -83,6 +83,3 @@ This page examines injury impacts, featuring:
 
 These findings highlight injury trends and their effects on performance.
 
-## Accessing the Report
-The interactive report is included in this repository as [`Premier League Analysis.pbix`](https://github.com/seoo-7/Premier-League-Analysis/blob/master/Dashboard/Premier%20League%20Analysis.pbix) Open it with compatible software (e.g., Power BI, Tableau) to explore the insights and visualizations. 📊✨
-
