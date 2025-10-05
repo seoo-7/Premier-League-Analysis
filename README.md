@@ -45,6 +45,7 @@ Key transformation steps included:
 🌟 The analysis is presented in an interactive report with three pages, each highlighting unique aspects of the data.
 
 ### League Analysis
+<img width="1491" height="840" alt="League" src="https://github.com/user-attachments/assets/99d14aae-9aa5-4b14-acf1-3f420c4f34d2" />
 
 This page explores team performance with insights like:
 
@@ -59,6 +60,7 @@ This page explores team performance with insights like:
 Filters (slicers) allow exploration by club and season. 🔎
 
 ### Transfers Analysis
+<img width="1584" height="755" alt="Transfers" src="https://github.com/user-attachments/assets/fe7f8fb9-3958-42c3-b465-f65e8eab9e86" />
 
 This section dives into transfer market trends, including:
 
@@ -71,6 +73,7 @@ This section dives into transfer market trends, including:
 These insights reveal financial and strategic transfer patterns.
 
 ### Injuries Analysis
+<img width="1517" height="779" alt="Injuries" src="https://github.com/user-attachments/assets/f2d6464a-add4-4779-8149-94427afcac83" />
 
 This page examines injury impacts, featuring:
 
